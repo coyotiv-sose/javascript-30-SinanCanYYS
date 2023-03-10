@@ -1,0 +1,16 @@
+{
+  "configurations": [
+    {
+      "type": "chrome",
+      "name": "http://127.0.0.1:3000/01 - JavaScript Drum Kit/index-START.html",
+      "request": "launch",
+      "url": "http://127.0.0.1:3000/01 - JavaScript Drum Kit/index-START.html"
+    },
+    {
+      "type": "chrome",
+      "name": "http://127.0.0.1:3000/01%20-%20JavaScript%20Drum%20Kit/index-START.html",
+      "request": "launch",
+      "url": "http://127.0.0.1:3000/01%20-%20JavaScript%20Drum%20Kit/index-START.html"
+    }
+  ]
+}

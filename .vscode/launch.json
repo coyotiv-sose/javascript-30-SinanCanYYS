@@ -11,6 +11,12 @@
       "name": "http://127.0.0.1:3000/01%20-%20JavaScript%20Drum%20Kit/index-START.html",
       "request": "launch",
       "url": "http://127.0.0.1:3000/01%20-%20JavaScript%20Drum%20Kit/index-START.html"
+    },
+    {
+      "type": "chrome",
+      "name": "http://127.0.0.1:3000/02%20-%20JS%20and%20CSS%20Clock/index-START.html",
+      "request": "launch",
+      "url": "http://127.0.0.1:3000/02%20-%20JS%20and%20CSS%20Clock/index-START.html"
     }
   ]
 }

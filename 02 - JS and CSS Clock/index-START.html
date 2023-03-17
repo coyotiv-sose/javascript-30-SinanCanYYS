@@ -64,6 +64,20 @@
         transition: all 0.05s;
         transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
       }
+
+      .hour-hand {
+        height: 10px;
+        width: 30%;
+        top: 50%;
+        left: 20%;
+      }
+
+      .min-hand {
+        height: 8px;
+        width: 40%;
+        top: 50%;
+        left: 10%;
+      }
     </style>
 
     <script>
@@ -86,6 +100,8 @@
         hourHand.style.transform = `rotate(${hoursDegrees}deg)`
       }
       setInterval(setDate, 1000)
+
+      setDate()
     </script>
   </body>
 </html>
